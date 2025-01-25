@@ -5,9 +5,11 @@ def letter_counter(s: str) -> dict[str, int]:
     times this letter appears in the sentence (as a lowercase or an uppercase
     letter).
     """
-    # --- WRITE YOUR CODE HERE --- #
-
-    # ---------------------------- #
+    res = {}
+    for i in s.lower():
+        if i.isalpha():
+            res[i] = res.get(i, 0) + 1
+    return res
 
 
 result = letter_counter("Hello world!!! HELLO!")
