@@ -1,24 +1,24 @@
 def automaton_126(s):
     # -------- YOUR CODE HERE ---------
-    res=""
-    lengh=len(s)
+    res = ""
+    lengh = len(s)
     for i in range(len(s)):
-        three=""
-        if i==0:
-            three+=s[lengh-1]
+        three = ""
+        if i == 0:
+            three += s[lengh - 1]
         else:
-            three+=s[i-1]
-        three+=s[i]
-        if i==lengh-1:
-            three+=s[0]
+            three += s[i - 1]
+        three += s[i]
+        if i == lengh - 1:
+            three += s[0]
         else:
-            three+=s[i+1]
+            three += s[i + 1]
 
-        if three=="..." or three=="XXX":
-            res+="."
+        if three == "..." or three == "XXX":
+            res += "."
         else:
-            res+="X"
-    return  res
+            res += "X"
+    return res
     # ---------------------------------
 
 
