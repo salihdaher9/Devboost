@@ -4,7 +4,9 @@ from collections import defaultdict
 
 
 if len(sys.argv) == 1:
-    print("displays number of files and total size of files per extension in the specified path.")
+    print(
+        "displays number of files and total size of files per extension in the specified path."
+    )
     sys.exit(1)
 
 folder = Path(sys.argv[1])
