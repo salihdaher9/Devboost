@@ -1,26 +1,24 @@
 # company_tree1.py
 import json
-from dis import deoptmap
 
 
 def number_of_employees(dept):
+    x = len(dept["members"])
+    y = sum([number_of_employees(d) for d in dept["departments"]])
+    return x + y
 
-    if len(dept["departments"])==0:
-        return len(dept["members"])
-    else:
-        sons=0
-        for i in dept["departments"]:
-            sons+=number_of_employees(i)
-        return len(dept["members"]) +sons
 
 def total_salaries(dept):
-    if len(dept["departments"])==0:
+    if len(dept["departments"]) == 0:
         return sum(dept["members"][i]["salary"] for i in range(len(dept["members"])))
     else:
-        sons=0
+        sons = 0
         for i in dept["departments"]:
-            sons+=total_salaries(i)
-        return sum(dept["members"][i]["salary"] for i in range(len(dept["members"]))) +sons
+            sons += total_salaries(i)
+        return (
+            sum(dept["members"][i]["salary"] for i in range(len(dept["members"])))
+            + sons
+        )
 
 
 with open("company3.json") as f:
