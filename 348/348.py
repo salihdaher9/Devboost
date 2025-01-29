@@ -7,7 +7,13 @@ def number_of_employees(company):
 
 
 def total_salaries(company):
-    return sum([company[i]["members"][j]["salary"]for i in range(len(company))for j in range(len(company[i]["members"]))])
+    return sum(
+        [
+            company[i]["members"][j]["salary"]
+            for i in range(len(company))
+            for j in range(len(company[i]["members"]))
+        ]
+    )
 
 
 with open("company2.json") as f:
