@@ -1,0 +1,1061 @@
+{
+  "title": "ACME International",
+  "departments": [
+    {
+      "title": "Management",
+      "departments": [],
+      "members": [
+        {
+          "employee_id": 88240,
+          "name": "Ryan Hamilton",
+          "salary": 24300,
+          "phone": "037180719",
+          "level": "Junior",
+          "birthday": "1988-01-21"
+        },
+        {
+          "employee_id": 62495,
+          "name": "Wanda Moon",
+          "salary": 19800,
+          "phone": "09-4605-880",
+          "level": "Management",
+          "birthday": "1992-09-13"
+        },
+        {
+          "employee_id": 15204,
+          "name": "James Watson",
+          "salary": 23900,
+          "phone": "08-1264-890",
+          "level": "Senior",
+          "birthday": "1971-10-21"
+        },
+        {
+          "employee_id": 36974,
+          "name": "Robert Morgan",
+          "salary": 12900,
+          "phone": "086413672",
+          "level": "Senior",
+          "birthday": "1992-01-24"
+        },
+        {
+          "employee_id": 67924,
+          "name": "Krystal Herrera",
+          "salary": 14300,
+          "phone": "099682687",
+          "level": "Senior",
+          "birthday": "1977-09-16"
+        }
+      ]
+    },
+    {
+      "title": "Operations",
+      "departments": [
+        {
+          "title": "Human Resources",
+          "departments": [],
+          "members": [
+            {
+              "employee_id": 40254,
+              "name": "Rachel Scott",
+              "salary": 24700,
+              "phone": "048363874",
+              "level": "Junior",
+              "birthday": "1986-02-24"
+            },
+            {
+              "employee_id": 97248,
+              "name": "Tiffany Oliver",
+              "salary": 21700,
+              "phone": "08-8421-555",
+              "level": "Management",
+              "birthday": "1979-05-23"
+            },
+            {
+              "employee_id": 66270,
+              "name": "Susan Thomas",
+              "salary": 27000,
+              "phone": "085125147",
+              "level": "Management",
+              "birthday": "1976-02-22"
+            },
+            {
+              "employee_id": 32863,
+              "name": "Jennifer Nelson",
+              "salary": 19000,
+              "phone": "02-3196-563",
+              "level": "Junior",
+              "birthday": "1967-08-27"
+            },
+            {
+              "employee_id": 33097,
+              "name": "Kimberly Warren",
+              "salary": 27700,
+              "phone": "088771802",
+              "level": "Senior",
+              "birthday": "1964-09-20"
+            },
+            {
+              "employee_id": 32311,
+              "name": "Veronica Cain",
+              "salary": 27500,
+              "phone": "02-4943-145",
+              "level": "Junior",
+              "birthday": "1963-04-22"
+            },
+            {
+              "employee_id": 25605,
+              "name": "Joshua Cohen",
+              "salary": 18800,
+              "phone": "059 7168182",
+              "level": "Senior",
+              "birthday": "1993-10-29"
+            },
+            {
+              "employee_id": 10196,
+              "name": "Dawn Wilson",
+              "salary": 22100,
+              "phone": "029908145",
+              "level": "Junior",
+              "birthday": "1971-10-08"
+            }
+          ]
+        },
+        {
+          "title": "IT",
+          "departments": [
+            {
+              "title": "Helpdesk",
+              "departments": [],
+              "members": [
+                {
+                  "employee_id": 63149,
+                  "name": "Justin Nelson",
+                  "salary": 12400,
+                  "phone": "023023187",
+                  "level": "Junior",
+                  "birthday": "1970-02-14"
+                },
+                {
+                  "employee_id": 72426,
+                  "name": "Catherine Strickland",
+                  "salary": 20700,
+                  "phone": "087035497",
+                  "level": "Senior",
+                  "birthday": "1984-12-09"
+                },
+                {
+                  "employee_id": 38321,
+                  "name": "Jeremy Moore",
+                  "salary": 15100,
+                  "phone": "029823823",
+                  "level": "Management",
+                  "birthday": "1971-11-17"
+                },
+                {
+                  "employee_id": 48499,
+                  "name": "Amanda Sanchez",
+                  "salary": 23600,
+                  "phone": "058-3719646",
+                  "level": "Junior",
+                  "birthday": "1969-07-17"
+                },
+                {
+                  "employee_id": 40351,
+                  "name": "Kevin Thomas",
+                  "salary": 16500,
+                  "phone": "055 9966526",
+                  "level": "Management",
+                  "birthday": "1962-07-19"
+                },
+                {
+                  "employee_id": 65794,
+                  "name": "Christine Ritter",
+                  "salary": 25100,
+                  "phone": "04-0627-361",
+                  "level": "Senior",
+                  "birthday": "1978-02-14"
+                },
+                {
+                  "employee_id": 13245,
+                  "name": "Cathy Hall",
+                  "salary": 16000,
+                  "phone": "091297605",
+                  "level": "Senior",
+                  "birthday": "1980-02-06"
+                },
+                {
+                  "employee_id": 73160,
+                  "name": "Kristine Roberts",
+                  "salary": 22500,
+                  "phone": "08-5347-721",
+                  "level": "Senior",
+                  "birthday": "1987-05-04"
+                }
+              ]
+            }
+          ],
+          "members": [
+            {
+              "employee_id": 27529,
+              "name": "Amanda Bird",
+              "salary": 13300,
+              "phone": "054-997-1551",
+              "level": "Management",
+              "birthday": "1964-01-12"
+            },
+            {
+              "employee_id": 60349,
+              "name": "Jennifer Lloyd",
+              "salary": 27700,
+              "phone": "059 853 7999",
+              "level": "Management",
+              "birthday": "1964-11-28"
+            },
+            {
+              "employee_id": 92388,
+              "name": "Beverly Zhang",
+              "salary": 24600,
+              "phone": "053 6420653",
+              "level": "Senior",
+              "birthday": "1986-02-21"
+            },
+            {
+              "employee_id": 90555,
+              "name": "James Shaw",
+              "salary": 23200,
+              "phone": "046227413",
+              "level": "Junior",
+              "birthday": "1974-09-24"
+            },
+            {
+              "employee_id": 43313,
+              "name": "Sara Contreras",
+              "salary": 27500,
+              "phone": "050 6852838",
+              "level": "Management",
+              "birthday": "1973-08-29"
+            },
+            {
+              "employee_id": 66542,
+              "name": "Tammy Buchanan",
+              "salary": 18300,
+              "phone": "09-0311-757",
+              "level": "Management",
+              "birthday": "1989-04-12"
+            }
+          ]
+        },
+        {
+          "title": "Customer Support",
+          "departments": [],
+          "members": [
+            {
+              "employee_id": 64418,
+              "name": "Kelly Jenkins",
+              "salary": 15200,
+              "phone": "08-7140-137",
+              "level": "Junior",
+              "birthday": "1968-12-28"
+            },
+            {
+              "employee_id": 58275,
+              "name": "Timothy Hernandez",
+              "salary": 19600,
+              "phone": "050 232 4538",
+              "level": "Senior",
+              "birthday": "1992-10-15"
+            },
+            {
+              "employee_id": 18822,
+              "name": "Rachel Nguyen",
+              "salary": 20300,
+              "phone": "059 019-0987",
+              "level": "Junior",
+              "birthday": "1972-03-31"
+            },
+            {
+              "employee_id": 87991,
+              "name": "Derrick Cook",
+              "salary": 21600,
+              "phone": "039064829",
+              "level": "Junior",
+              "birthday": "1976-08-02"
+            },
+            {
+              "employee_id": 32169,
+              "name": "Donna Kelley",
+              "salary": 15500,
+              "phone": "056 809 3400",
+              "level": "Management",
+              "birthday": "1965-12-17"
+            },
+            {
+              "employee_id": 22618,
+              "name": "Margaret Smith",
+              "salary": 22800,
+              "phone": "023921797",
+              "level": "Junior",
+              "birthday": "1959-05-18"
+            }
+          ]
+        }
+      ],
+      "members": [
+        {
+          "employee_id": 21342,
+          "name": "Cody Day",
+          "salary": 16500,
+          "phone": "0539699231",
+          "level": "Senior",
+          "birthday": "1972-04-26"
+        },
+        {
+          "employee_id": 11342,
+          "name": "Alex Rodgers",
+          "salary": 13000,
+          "phone": "080472232",
+          "level": "Senior",
+          "birthday": "1987-11-08"
+        },
+        {
+          "employee_id": 98773,
+          "name": "Scott Williams",
+          "salary": 18100,
+          "phone": "054 819 9984",
+          "level": "Management",
+          "birthday": "1994-07-05"
+        }
+      ]
+    },
+    {
+      "title": "Marketing",
+      "departments": [
+        {
+          "title": "Sales",
+          "departments": [],
+          "members": [
+            {
+              "employee_id": 54545,
+              "name": "Jorge Williams",
+              "salary": 20600,
+              "phone": "08-9599-943",
+              "level": "Junior",
+              "birthday": "1992-05-25"
+            },
+            {
+              "employee_id": 41126,
+              "name": "Rodney Middleton",
+              "salary": 16800,
+              "phone": "03-2621-131",
+              "level": "Management",
+              "birthday": "1983-06-03"
+            },
+            {
+              "employee_id": 29425,
+              "name": "Jose Lopez",
+              "salary": 19700,
+              "phone": "053 126-2290",
+              "level": "Junior",
+              "birthday": "1968-09-10"
+            },
+            {
+              "employee_id": 38206,
+              "name": "Joseph Hernandez",
+              "salary": 27000,
+              "phone": "043118368",
+              "level": "Senior",
+              "birthday": "1979-08-26"
+            }
+          ]
+        }
+      ],
+      "members": [
+        {
+          "employee_id": 27882,
+          "name": "Mary Martin",
+          "salary": 22300,
+          "phone": "041920354",
+          "level": "Junior",
+          "birthday": "1959-07-12"
+        },
+        {
+          "employee_id": 40010,
+          "name": "Carol Wang",
+          "salary": 18900,
+          "phone": "051-7610838",
+          "level": "Senior",
+          "birthday": "1985-12-12"
+        },
+        {
+          "employee_id": 57019,
+          "name": "Isaac Moon",
+          "salary": 21300,
+          "phone": "02-8898-409",
+          "level": "Management",
+          "birthday": "1985-02-07"
+        },
+        {
+          "employee_id": 48344,
+          "name": "Michelle Banks",
+          "salary": 25000,
+          "phone": "08-1428-066",
+          "level": "Senior",
+          "birthday": "1990-11-18"
+        }
+      ]
+    },
+    {
+      "title": "Research and Development",
+      "departments": [
+        {
+          "title": "Software Engineering",
+          "departments": [
+            {
+              "title": "Web Development",
+              "departments": [],
+              "members": [
+                {
+                  "employee_id": 26007,
+                  "name": "Brett Gilmore",
+                  "salary": 21900,
+                  "phone": "0519363814",
+                  "level": "Senior",
+                  "birthday": "1984-07-24"
+                },
+                {
+                  "employee_id": 83548,
+                  "name": "Sarah Hall",
+                  "salary": 28000,
+                  "phone": "056-2648758",
+                  "level": "Junior",
+                  "birthday": "1965-07-11"
+                },
+                {
+                  "employee_id": 79741,
+                  "name": "Kenneth King",
+                  "salary": 25900,
+                  "phone": "083055273",
+                  "level": "Management",
+                  "birthday": "1977-02-03"
+                },
+                {
+                  "employee_id": 81556,
+                  "name": "Diana Nicholson",
+                  "salary": 16900,
+                  "phone": "038215554",
+                  "level": "Management",
+                  "birthday": "1968-10-29"
+                },
+                {
+                  "employee_id": 31362,
+                  "name": "Ana Frazier",
+                  "salary": 15900,
+                  "phone": "08-6055-583",
+                  "level": "Senior",
+                  "birthday": "1973-07-01"
+                },
+                {
+                  "employee_id": 59990,
+                  "name": "Monica Nguyen",
+                  "salary": 13900,
+                  "phone": "09-4345-366",
+                  "level": "Management",
+                  "birthday": "1990-03-20"
+                }
+              ]
+            },
+            {
+              "title": "Mobile Development",
+              "departments": [],
+              "members": [
+                {
+                  "employee_id": 36337,
+                  "name": "Jason Moss",
+                  "salary": 25600,
+                  "phone": "053-475-6697",
+                  "level": "Management",
+                  "birthday": "1984-12-14"
+                },
+                {
+                  "employee_id": 63224,
+                  "name": "Eric Davis",
+                  "salary": 16200,
+                  "phone": "059 3380069",
+                  "level": "Senior",
+                  "birthday": "1964-04-19"
+                },
+                {
+                  "employee_id": 99465,
+                  "name": "Joann Stout",
+                  "salary": 23200,
+                  "phone": "094616157",
+                  "level": "Junior",
+                  "birthday": "1973-12-06"
+                }
+              ]
+            },
+            {
+              "title": "Backend Development",
+              "departments": [
+                {
+                  "title": "Algorithms",
+                  "departments": [],
+                  "members": [
+                    {
+                      "employee_id": 48060,
+                      "name": "Kim Dixon",
+                      "salary": 14500,
+                      "phone": "02-5107-076",
+                      "level": "Junior",
+                      "birthday": "1983-03-14"
+                    },
+                    {
+                      "employee_id": 41356,
+                      "name": "Edwin Adkins",
+                      "salary": 24500,
+                      "phone": "02-8884-560",
+                      "level": "Management",
+                      "birthday": "1984-01-08"
+                    },
+                    {
+                      "employee_id": 51235,
+                      "name": "Matthew Burnett",
+                      "salary": 19400,
+                      "phone": "091325258",
+                      "level": "Management",
+                      "birthday": "1982-09-02"
+                    },
+                    {
+                      "employee_id": 92227,
+                      "name": "Erika Rodriguez",
+                      "salary": 20100,
+                      "phone": "051 2400009",
+                      "level": "Junior",
+                      "birthday": "1965-11-24"
+                    },
+                    {
+                      "employee_id": 78641,
+                      "name": "Kathleen Clarke",
+                      "salary": 20000,
+                      "phone": "043846778",
+                      "level": "Junior",
+                      "birthday": "1993-07-18"
+                    },
+                    {
+                      "employee_id": 18578,
+                      "name": "Kenneth Valencia",
+                      "salary": 25400,
+                      "phone": "04-4334-669",
+                      "level": "Senior",
+                      "birthday": "1972-07-22"
+                    },
+                    {
+                      "employee_id": 79512,
+                      "name": "Victoria Rivers MD",
+                      "salary": 25500,
+                      "phone": "02-5471-530",
+                      "level": "Management",
+                      "birthday": "1989-01-27"
+                    }
+                  ]
+                },
+                {
+                  "title": "Computer Vision",
+                  "departments": [],
+                  "members": [
+                    {
+                      "employee_id": 21634,
+                      "name": "Philip Mason",
+                      "salary": 23300,
+                      "phone": "055 785 1607",
+                      "level": "Junior",
+                      "birthday": "1985-05-02"
+                    },
+                    {
+                      "employee_id": 39021,
+                      "name": "Jason Marquez",
+                      "salary": 16700,
+                      "phone": "092570897",
+                      "level": "Senior",
+                      "birthday": "1984-07-02"
+                    },
+                    {
+                      "employee_id": 65030,
+                      "name": "Chelsea Romero",
+                      "salary": 12500,
+                      "phone": "09-8187-704",
+                      "level": "Junior",
+                      "birthday": "1991-05-30"
+                    },
+                    {
+                      "employee_id": 93479,
+                      "name": "Molly Barnett",
+                      "salary": 23200,
+                      "phone": "080638694",
+                      "level": "Management",
+                      "birthday": "1971-04-11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Graphics",
+                  "departments": [],
+                  "members": [
+                    {
+                      "employee_id": 66429,
+                      "name": "John Calhoun",
+                      "salary": 24700,
+                      "phone": "054 068-5521",
+                      "level": "Senior",
+                      "birthday": "1967-02-18"
+                    },
+                    {
+                      "employee_id": 96226,
+                      "name": "Krista Mcdonald",
+                      "salary": 15900,
+                      "phone": "052 3556061",
+                      "level": "Junior",
+                      "birthday": "1967-03-17"
+                    },
+                    {
+                      "employee_id": 63092,
+                      "name": "Paul Lopez",
+                      "salary": 16300,
+                      "phone": "053 606-4780",
+                      "level": "Management",
+                      "birthday": "1964-03-21"
+                    },
+                    {
+                      "employee_id": 63753,
+                      "name": "Timothy Morris",
+                      "salary": 18800,
+                      "phone": "03-1139-509",
+                      "level": "Senior",
+                      "birthday": "1963-01-24"
+                    },
+                    {
+                      "employee_id": 19172,
+                      "name": "Pamela Garcia",
+                      "salary": 14400,
+                      "phone": "051 912-7045",
+                      "level": "Junior",
+                      "birthday": "1986-10-26"
+                    }
+                  ]
+                }
+              ],
+              "members": [
+                {
+                  "employee_id": 68542,
+                  "name": "Andrew Hansen",
+                  "salary": 18100,
+                  "phone": "0534147271",
+                  "level": "Senior",
+                  "birthday": "1982-09-24"
+                },
+                {
+                  "employee_id": 41274,
+                  "name": "Patricia Bush",
+                  "salary": 19400,
+                  "phone": "057-766-8542",
+                  "level": "Management",
+                  "birthday": "1960-03-22"
+                }
+              ]
+            }
+          ],
+          "members": [
+            {
+              "employee_id": 49014,
+              "name": "Brian Stark",
+              "salary": 12600,
+              "phone": "043696109",
+              "level": "Junior",
+              "birthday": "1984-04-24"
+            },
+            {
+              "employee_id": 89151,
+              "name": "Nancy Blevins",
+              "salary": 24900,
+              "phone": "03-1623-794",
+              "level": "Junior",
+              "birthday": "1992-08-03"
+            },
+            {
+              "employee_id": 87761,
+              "name": "Heather Morrison",
+              "salary": 12500,
+              "phone": "059-317-1061",
+              "level": "Junior",
+              "birthday": "1994-11-26"
+            },
+            {
+              "employee_id": 67182,
+              "name": "Eric Snyder Jr.",
+              "salary": 22200,
+              "phone": "036899006",
+              "level": "Junior",
+              "birthday": "1990-11-07"
+            }
+          ]
+        },
+        {
+          "title": "Quality Assurance",
+          "departments": [
+            {
+              "title": "Test Engineering",
+              "departments": [],
+              "members": [
+                {
+                  "employee_id": 37520,
+                  "name": "Dr. Larry Salas",
+                  "salary": 19900,
+                  "phone": "091773633",
+                  "level": "Management",
+                  "birthday": "1981-06-20"
+                },
+                {
+                  "employee_id": 95818,
+                  "name": "Robert Fields",
+                  "salary": 15400,
+                  "phone": "04-5012-933",
+                  "level": "Junior",
+                  "birthday": "1980-09-27"
+                },
+                {
+                  "employee_id": 14092,
+                  "name": "Amber Sanchez",
+                  "salary": 26700,
+                  "phone": "095422610",
+                  "level": "Senior",
+                  "birthday": "1982-06-28"
+                },
+                {
+                  "employee_id": 33790,
+                  "name": "Ryan Harrison",
+                  "salary": 23600,
+                  "phone": "056 1423215",
+                  "level": "Management",
+                  "birthday": "1961-01-28"
+                },
+                {
+                  "employee_id": 75638,
+                  "name": "Matthew Cardenas",
+                  "salary": 25700,
+                  "phone": "028151117",
+                  "level": "Junior",
+                  "birthday": "1970-01-10"
+                }
+              ]
+            },
+            {
+              "title": "Automation",
+              "departments": [],
+              "members": [
+                {
+                  "employee_id": 16273,
+                  "name": "James Graham",
+                  "salary": 23300,
+                  "phone": "09-9008-035",
+                  "level": "Management",
+                  "birthday": "1975-03-08"
+                },
+                {
+                  "employee_id": 23980,
+                  "name": "Larry Charles",
+                  "salary": 25000,
+                  "phone": "053 007-1184",
+                  "level": "Junior",
+                  "birthday": "1961-07-12"
+                },
+                {
+                  "employee_id": 35106,
+                  "name": "Alyssa Roberts",
+                  "salary": 20000,
+                  "phone": "08-9352-940",
+                  "level": "Senior",
+                  "birthday": "1983-06-02"
+                },
+                {
+                  "employee_id": 16905,
+                  "name": "Howard Mccullough",
+                  "salary": 23500,
+                  "phone": "04-0835-589",
+                  "level": "Management",
+                  "birthday": "1994-10-24"
+                },
+                {
+                  "employee_id": 50376,
+                  "name": "Warren Cooper",
+                  "salary": 12800,
+                  "phone": "09-3853-311",
+                  "level": "Junior",
+                  "birthday": "1977-10-30"
+                },
+                {
+                  "employee_id": 16082,
+                  "name": "Carlos Castro",
+                  "salary": 23200,
+                  "phone": "050 603-0629",
+                  "level": "Senior",
+                  "birthday": "1990-04-12"
+                },
+                {
+                  "employee_id": 41960,
+                  "name": "Kevin Jenkins",
+                  "salary": 12700,
+                  "phone": "03-8362-603",
+                  "level": "Management",
+                  "birthday": "1979-12-20"
+                },
+                {
+                  "employee_id": 11560,
+                  "name": "Cody Johnson",
+                  "salary": 16900,
+                  "phone": "053 127 7828",
+                  "level": "Junior",
+                  "birthday": "1960-03-30"
+                },
+                {
+                  "employee_id": 93770,
+                  "name": "Jessica Cole",
+                  "salary": 24100,
+                  "phone": "023993191",
+                  "level": "Junior",
+                  "birthday": "1961-10-09"
+                },
+                {
+                  "employee_id": 16114,
+                  "name": "Elizabeth Phillips",
+                  "salary": 24700,
+                  "phone": "09-1961-469",
+                  "level": "Management",
+                  "birthday": "1979-03-19"
+                },
+                {
+                  "employee_id": 71336,
+                  "name": "Travis Thomas",
+                  "salary": 19800,
+                  "phone": "04-6541-713",
+                  "level": "Management",
+                  "birthday": "1974-12-01"
+                },
+                {
+                  "employee_id": 34693,
+                  "name": "Jamie Lewis",
+                  "salary": 14000,
+                  "phone": "090679509",
+                  "level": "Management",
+                  "birthday": "1992-08-01"
+                }
+              ]
+            }
+          ],
+          "members": [
+            {
+              "employee_id": 27224,
+              "name": "Jesse Carson",
+              "salary": 26800,
+              "phone": "03-6026-743",
+              "level": "Senior",
+              "birthday": "1961-10-08"
+            },
+            {
+              "employee_id": 90415,
+              "name": "John Carpenter",
+              "salary": 14800,
+              "phone": "04-5490-848",
+              "level": "Junior",
+              "birthday": "1981-03-10"
+            },
+            {
+              "employee_id": 13827,
+              "name": "Jason Williams",
+              "salary": 23600,
+              "phone": "08-9594-096",
+              "level": "Junior",
+              "birthday": "1987-03-25"
+            },
+            {
+              "employee_id": 90615,
+              "name": "Lindsey Riley",
+              "salary": 16000,
+              "phone": "0580850955",
+              "level": "Management",
+              "birthday": "1993-10-15"
+            },
+            {
+              "employee_id": 46601,
+              "name": "Veronica Allen",
+              "salary": 21800,
+              "phone": "025395273",
+              "level": "Management",
+              "birthday": "1991-07-15"
+            },
+            {
+              "employee_id": 78707,
+              "name": "Tammy Stephens",
+              "salary": 15200,
+              "phone": "08-1752-236",
+              "level": "Junior",
+              "birthday": "1987-12-11"
+            },
+            {
+              "employee_id": 79766,
+              "name": "Jamie Krause DVM",
+              "salary": 23900,
+              "phone": "044919235",
+              "level": "Junior",
+              "birthday": "1971-12-27"
+            },
+            {
+              "employee_id": 77327,
+              "name": "Robin Peterson",
+              "salary": 19500,
+              "phone": "0562638174",
+              "level": "Senior",
+              "birthday": "1978-09-18"
+            }
+          ]
+        },
+        {
+          "title": "Data Engineering",
+          "departments": [
+            {
+              "title": "Cloud",
+              "departments": [],
+              "members": [
+                {
+                  "employee_id": 62332,
+                  "name": "Roger James",
+                  "salary": 27400,
+                  "phone": "03-6361-505",
+                  "level": "Management",
+                  "birthday": "1961-05-27"
+                },
+                {
+                  "employee_id": 82340,
+                  "name": "Kelly Gray",
+                  "salary": 27300,
+                  "phone": "084014167",
+                  "level": "Senior",
+                  "birthday": "1963-12-22"
+                },
+                {
+                  "employee_id": 87231,
+                  "name": "Casey Benson",
+                  "salary": 12900,
+                  "phone": "040487662",
+                  "level": "Senior",
+                  "birthday": "1985-08-30"
+                },
+                {
+                  "employee_id": 45697,
+                  "name": "Michael Waters",
+                  "salary": 14400,
+                  "phone": "04-1949-024",
+                  "level": "Junior",
+                  "birthday": "1969-01-14"
+                },
+                {
+                  "employee_id": 13013,
+                  "name": "Cody Reynolds",
+                  "salary": 24500,
+                  "phone": "026210473",
+                  "level": "Senior",
+                  "birthday": "1975-10-06"
+                },
+                {
+                  "employee_id": 55363,
+                  "name": "Charlotte Williams",
+                  "salary": 17100,
+                  "phone": "059 596 8443",
+                  "level": "Management",
+                  "birthday": "1992-07-26"
+                }
+              ]
+            }
+          ],
+          "members": [
+            {
+              "employee_id": 48385,
+              "name": "Amanda Richards",
+              "salary": 22100,
+              "phone": "08-2201-407",
+              "level": "Senior",
+              "birthday": "1985-06-02"
+            },
+            {
+              "employee_id": 77817,
+              "name": "Cheryl Knight",
+              "salary": 20900,
+              "phone": "056-9829836",
+              "level": "Management",
+              "birthday": "1966-02-05"
+            },
+            {
+              "employee_id": 82542,
+              "name": "Jeremiah Davis",
+              "salary": 20600,
+              "phone": "030019278",
+              "level": "Senior",
+              "birthday": "1979-05-11"
+            },
+            {
+              "employee_id": 86468,
+              "name": "Joseph Moore",
+              "salary": 16500,
+              "phone": "094964379",
+              "level": "Junior",
+              "birthday": "1985-10-21"
+            }
+          ]
+        }
+      ],
+      "members": [
+        {
+          "employee_id": 69987,
+          "name": "Ronald Hartman",
+          "salary": 24400,
+          "phone": "025327317",
+          "level": "Senior",
+          "birthday": "1963-09-16"
+        },
+        {
+          "employee_id": 38048,
+          "name": "Robert Morse",
+          "salary": 23400,
+          "phone": "056 116-7183",
+          "level": "Management",
+          "birthday": "1959-05-25"
+        },
+        {
+          "employee_id": 83456,
+          "name": "Michaela Powell",
+          "salary": 14900,
+          "phone": "053-2503728",
+          "level": "Senior",
+          "birthday": "1960-07-26"
+        }
+      ]
+    }
+  ],
+  "members": [
+    {
+      "employee_id": 27033,
+      "name": "Steven Elliott",
+      "salary": 26600,
+      "phone": "056 405-1791",
+      "level": "Management",
+      "birthday": "1962-06-16"
+    },
+    {
+      "employee_id": 54810,
+      "name": "Michael Davila",
+      "salary": 18500,
+      "phone": "04-6040-295",
+      "level": "Senior",
+      "birthday": "1971-06-02"
+    }
+  ]
+}
